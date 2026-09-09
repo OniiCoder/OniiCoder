@@ -7,14 +7,4 @@ I'm a **Software Engineer & AI Builder** with 7+ years of experience shipping pr
 - 🎨 **Creative Side:** Songwriter 🎵, singer, content creator 📹, and AI enthusiast.
 
 ---
-
-### 🛠️ Tech Stack & Skills
-
-#### Languages & Frameworks
-`Next.js` `React` `Laravel` `PHP` `C++` `Java` `TypeScript` `JavaScript` `Flutter` `Python` `Livewire` `Tailwind CSS`
-
-#### Platforms & Ecosystems
-`Shopify` `AWS` `Machine Learning Systems` `AI / LLM Integration` `Docker` `REST APIs` `Git`
-
----
 *“Building personalized, intelligent, and accessible software to solve complex problems.”*
