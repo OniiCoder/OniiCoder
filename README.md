@@ -20,17 +20,10 @@ I'm a **Software Engineer & AI Builder** with 7+ years of experience shipping pr
 ### 🛠️ Tech Stack & Skills
 
 #### Languages & Frameworks
-`Next.js` `React` `Laravel` `PHP` `C++` `JAVA` `TypeScript` `JavaScript` `Flutter` `Python` `Livewire` `Tailwind CSS`
+`Next.js` `React` `Laravel` `PHP` `C++` `Java` `TypeScript` `JavaScript` `Flutter` `Python` `Livewire` `Tailwind CSS`
 
 #### Platforms & Ecosystems
 `Shopify` `AWS` `Machine Learning Systems` `AI / LLM Integration` `Docker` `REST APIs` `Git`
-
----
-
-### 🔭 Currently Working On
-- 💤 Innovating sleep technology and modern digital experiences at **3zbrands**.
-- 📅 Enhancing booking & scheduling workflows for service providers on **BuukMeNow**.
-- 🤖 Exploring cutting-edge AI tools and autonomous software systems.
 
 ---
 *“Building personalized, intelligent, and accessible software to solve complex problems.”*
