@@ -1,4 +1,4 @@
-# Hi there, I'm Peter Onisha Peregbakumo 👋
+# Hi there 👋
 
 I'm a **Software Engineer & AI Builder** with 7+ years of experience shipping production applications across software engineering, machine learning systems, and intelligent web applications. I thrive on solving ambiguous problems and building personalized, accessible software that makes a real-world impact.
 
